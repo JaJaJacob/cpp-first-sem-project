@@ -1,0 +1,6 @@
+C:\Users\Designer\Desktop\Project1\Debug\Project1.exe
+C:\Users\Designer\Desktop\Project1\Debug\Project1.pdb
+A:\STUDIA\figielska\zaliczenie\Project1\Debug\Project1.exe
+A:\STUDIA\figielska\zaliczenie\Project1\Debug\Project1.pdb
+F:\STUDIA\1&2 SEM\figielska\zaliczenie\Project1\Debug\Project1.exe
+F:\STUDIA\1&2 SEM\figielska\zaliczenie\Project1\Debug\Project1.pdb
